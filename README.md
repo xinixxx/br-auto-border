@@ -9,6 +9,7 @@ https://github.com/DayBreak365/AbilityWar
 마인크래프트 맵 안의 datapack 에 파일을 넣으면 작동하실 수 있습니다.
 
 자기장은 x 좌표 0 z 좌표 0 을 기준으로 감소합니다
+(setup:mcfunction 에서 기준 좌표 수정 가능)
 
 ---
 
