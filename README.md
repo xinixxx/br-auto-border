@@ -22,13 +22,13 @@ https://github.com/DayBreak365/AbilityWar
 자기장은 페이즈 4까지 구성되어 있으며
 data\br_border\functions 에서
 
-start.mcfunction
-<br>
-phase_2.mcfunction
-<br>
-phase_3.mcfunction
-<br>
-phase_4.mcfunction
+- start.mcfunction
+
+- phase_2.mcfunction
+
+- phase_3.mcfunction
+
+- phase_4.mcfunction
 <br>
 
 이 파일을 통해 자기장 감소 수치와 시간 등을 따로 세팅하실 수 있습니다.
